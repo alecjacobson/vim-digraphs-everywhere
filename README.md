@@ -11,7 +11,7 @@ This means you can type:
 
 If you're new to digraphs, open `vim` and issue `:help digraphs`
 
-## To Install
+## Four-Step Installation
 
 ### 1. Install [Karabiner](https://karabiner-elements.pqrs.org/)
 ### 2. Add a "complex modification" to map `CTRL+K` to `CTRL+SHIFT+F12` 
