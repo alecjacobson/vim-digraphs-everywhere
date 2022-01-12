@@ -1,3 +1,5 @@
+# vim digraphs everywhere
+
 ![](demo.gif)
 
 This repository demonstrates how to create bindings to use vim digraph bindings
@@ -9,7 +11,7 @@ This means you can type:
 
 If you're new to digraphs, open `vim` and issue `:help digraphs`
 
-# To Install
+## To Install
 
 ### 1. Install [Karabiner](https://karabiner-elements.pqrs.org/)
 ### 2. Add a "complex modification" to map `CTRL+K` to `CTRL+SHIFT+F12` 
@@ -44,7 +46,7 @@ cp ./DefaultKeyBinding.dict ~/Library/KeyBindings/DefaultKeyBinding.dict
 > use.
 
 
-# Building `./DefaultKeyBinding.dict`
+## Building `./DefaultKeyBinding.dict`
 
 To regenerate the `./DefaultKeyBinding.dict` file run:
 
