@@ -57,3 +57,5 @@ To regenerate the `./DefaultKeyBinding.dict` file run:
 This ruby script will download the latest digraphs help page from vim on github.
 It will scan through this file and and look through your `~/.vimrc` file for any
 `digr ...` commands to generate a list of digraphs to create key bindings for.
+
+[reference](https://web.archive.org/web/20120914231926/http://lol.zoy.org/blog/2012/06/17/compose-key-on-os-x)
