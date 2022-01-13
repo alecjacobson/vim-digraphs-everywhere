@@ -45,6 +45,10 @@ cp ./DefaultKeyBinding.dict ~/Library/KeyBindings/DefaultKeyBinding.dict
 > indicate an issue with `DefaultKeyBinding.dict`. Try restarting the app in
 > use.
 
+## Two-Step Installation
+If you don't care about preserving `CTRL+K` behavior in Terminal.app, then Karabiner is not necessary.
+
+Simple change `^$\UF70F` (`CTRL+SHIFT+F12`) to `^\U006B` (`CTRL+K`) at the top of `./DefaultKeyBinding.dict` and jump to steps 3. and 4. above.
 
 ## Building `./DefaultKeyBinding.dict`
 
