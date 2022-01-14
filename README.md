@@ -18,6 +18,8 @@ If you're new to digraphs, open `vim` and issue `:help digraphs`
 ```
 cp complex_modification.json ~/.config/karabiner/assets/complex_modifications/
 ```
+Then open Karabiner-Elements.app > Complex Modifications > Add Rule and enable
+the "Left Control + K maps to Left Shift + Left Control + F12" rule.
 
 >This is assuming you're not already using Karabiner for anything else.
 >
